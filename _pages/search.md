@@ -1,5 +1,5 @@
 ---
-title: " 번호 검색 하기"
+title: "< 번호 검색 >"
 layout: search
 permalink: /search/
 author_profile: true

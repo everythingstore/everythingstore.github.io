@@ -1,11 +1,11 @@
 # main links
 main:
- - title: "< 번호 검색 하기>"
+ - title: "< 번호 검색 >"
    url: /search/
  
 
 docs:
-  - title: "<번호 검색하기>"
+  - title: "< 번호 검색 >"
     children:
       - title: "-검색창 바로 가기-"
         url: /search/
