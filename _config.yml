@@ -107,7 +107,7 @@ author:
   name             : "모든 상점"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " 상품 번호를 검색하여 찾기!!!"
-  location         : 
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
