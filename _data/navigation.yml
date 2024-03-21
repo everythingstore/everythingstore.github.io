@@ -1,11 +1,11 @@
 # main links
 main:
- - title: "< 번호 검색 >"
+ - title: "< 상품번호 검색 >"
    url: /search/
  
 
 docs:
-  - title: "< 번호 검색 >"
+  - title: "< 상품번호를 기억하고 검색해주세요!!!>"
     children:
       - title: "-검색창 바로 가기-"
         url: /search/
