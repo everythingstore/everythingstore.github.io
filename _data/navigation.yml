@@ -8,7 +8,7 @@ docs:
   - title: "<번호 검색하기>"
     children:
       - title: "Category"
-       url: /categories/
+        url: /categories/
  
  
  
