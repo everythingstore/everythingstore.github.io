@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
-gem 'rails', '4.1.0.rc2'
-gem 'rack-cache'
-gem 'nokogiri', '~> 1.6.1'
+gem "jekyll", '~> 4.2.1'
+
+group :jekyll_plugins do
+    gem 'jekyll-seo-tag', '~> 2.7.0'
+end
+
+gem "webrick", "~> 1.8"
