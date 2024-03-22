@@ -1,6 +1,7 @@
 # main links
 main:
  - title: "< 상품번호 검색 >"
+  title_icon: "fas fa-search"
    url: /search/
  
 
